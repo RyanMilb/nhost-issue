@@ -1,0 +1,4 @@
+version: 2
+endpoint: https://hasura-4ajcb5oh.nhost.app
+admin_secret: [removed]
+metadata_directory: metadata
